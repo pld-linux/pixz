@@ -3,7 +3,7 @@
 Summary:	A parallel, indexing version of XZ
 Name:		pixz
 Version:	1.0.2
-Release:	1
+Release:	2
 License:	BSD-2-Clause
 Group:		Applications/Archiving
 Source0:	http://downloads.sourceforge.net/pixz/%{name}-%{version}.tgz
